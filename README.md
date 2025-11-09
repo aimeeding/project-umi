@@ -1,5 +1,7 @@
 # UMI Internship Project
 
+![UMI Project](img/umi_6.jpg)
+
 ## Project Overview
 
 This repository documents my internship work on **Project-UMI** (Universal Manipulation Interface), a robotics project focused on developing and improving robotic manipulation systems.
